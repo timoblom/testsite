@@ -1,5 +1,3 @@
-# testsite
-Testing html publishing
 <!DOCTYPE html>
 <html>
 <body>
