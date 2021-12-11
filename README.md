@@ -1,17 +1,3 @@
-
-
-Siirry sisältöön
-Gmail ja käyttö näytönlukuohjelmilla
-Meet
-Uusi kokous
-Liity kokoukseen
-Hangouts
-
-Keskustelut
-7,25 Gt / 15 Gt käytössä
-Ehdot · Tietosuoja · Käytön säännöt
-Viimeinen toiminta tällä tilillä: 28 minuuttia sitten
-Tiedot
 <!DOCTYPE html>
 <html lang="en">
 <title>Foundation of Web</title>
